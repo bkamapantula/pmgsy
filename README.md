@@ -62,6 +62,7 @@ If you notice a name mapping mismatch please reach out. I'll fix it.
 
 1. Kamrup Rural -> Kamrup
 2. Kamrup Metro -> Kamrup Metropolitan
+3. N.C. Hills -> Dima Hasao
 
 Biswanath, Charaideo, Hosai, Majuli, South Salmara Mankachar, West Karbi Anglong districts data isn't available yet on PMGSY.
 
