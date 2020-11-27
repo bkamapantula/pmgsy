@@ -23,5 +23,5 @@ I updated district names in the PMGSY data to match the shapefiles.
 
 ## Shape files
 
-- Andhra Pradesh - covid19india
-- Telangana - Telangana open data portal
+- Andhra Pradesh - [covid19india](https://github.com/covid19india/covid19india-react/tree/master/public/maps)
+- Telangana - [Telangana open data portal](https://data.telangana.gov.in/file/696)
