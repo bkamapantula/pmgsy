@@ -81,6 +81,8 @@ Bilaspur is divided into Bilaspur and Gaurella Pendra Marwahi but united Bilaspu
 
 Hyderabad district data isn't available yet on PMGSY.
 
+Maharashtra, Madhya Pradesh files are larger than 25 MB and hence aren't uploaded here. 
+
 ## Shape files
 
 - Andhra Pradesh - [covid19india](https://github.com/covid19india/covid19india-react/tree/master/public/maps)
