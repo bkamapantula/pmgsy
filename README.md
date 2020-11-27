@@ -66,6 +66,10 @@ If you notice a name mapping mismatch please reach out. I'll fix it.
 
 Biswanath, Charaideo, Hosai, Majuli, South Salmara Mankachar, West Karbi Anglong districts data isn't available yet on PMGSY.
 
+#### Chhattisgarh
+
+Bilaspur is divided into Bilaspur and Gaurella Pendra Marwahi but united Bilaspur is present in the maps repository.
+
 #### Telangana
 
 1. Jagitial -> Jagtial
