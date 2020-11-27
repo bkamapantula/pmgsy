@@ -84,6 +84,6 @@ Hyderabad district data isn't available yet on PMGSY.
 
 ## License
 
-PMGSY data is shared under the *Government Open Data License - India*
+PMGSY data is shared under the *Government Open Data License - India*, [link](https://data.gov.in/government-open-data-license-india)
 
 Shapefiles are shared under *MIT license* (the entire repository is shared as such with no another license for maps)
